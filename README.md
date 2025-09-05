@@ -29,4 +29,4 @@ Edit your README.md and paste this code under Project 2 section:
   - **XLOOKUP** (approximate match, wildcard search, search modes)  
 
 📷 **Preview:**  
-![Formula Practice Preview]<img width="817" height="705" alt="image" src="https://github.com/user-attachments/assets/c5b6bd13-42c7-4c00-8027-a14ff3987714" />
+<img width="817" height="705" alt="image" src="https://github.com/user-attachments/assets/c5b6bd13-42c7-4c00-8027-a14ff3987714" />
